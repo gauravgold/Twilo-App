@@ -15,5 +15,6 @@
         /// The text body of the SMS message. Up to 160 characters long
         /// </summary>
         public string Body { get; set;}
+        public string Body { get; set;}
     }
 }
